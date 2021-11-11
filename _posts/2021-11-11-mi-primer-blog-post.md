@@ -1,3 +1,7 @@
+---
+title: "PRIMER BLOG"
+date: 2021-11-11
+---
 #Practicando Git, GitHub y GitHub Pages:
 
 ##Git: software de control de versiones.
